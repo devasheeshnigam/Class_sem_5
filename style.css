@@ -1,0 +1,38 @@
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+th, td {
+    border: 3px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.info-caption {
+    white-space: pre;
+}
+
+.brk{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    width: 20px;
+}
